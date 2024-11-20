@@ -1,4 +1,4 @@
-# Java-gj 项目
+# Java-gj 项目（Huijuan MA & Mingge WU ）
 
 ## 项目简介
 
